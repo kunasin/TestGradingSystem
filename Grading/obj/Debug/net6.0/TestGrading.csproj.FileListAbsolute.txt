@@ -1,0 +1,14 @@
+D:\vs22\g\Grading\bin\Debug\net6.0\TestGrading.exe
+D:\vs22\g\Grading\bin\Debug\net6.0\TestGrading.deps.json
+D:\vs22\g\Grading\bin\Debug\net6.0\TestGrading.runtimeconfig.json
+D:\vs22\g\Grading\bin\Debug\net6.0\TestGrading.dll
+D:\vs22\g\Grading\bin\Debug\net6.0\TestGrading.pdb
+D:\vs22\g\Grading\obj\Debug\net6.0\TestGrading.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs22\g\Grading\obj\Debug\net6.0\TestGrading.AssemblyInfoInputs.cache
+D:\vs22\g\Grading\obj\Debug\net6.0\TestGrading.AssemblyInfo.cs
+D:\vs22\g\Grading\obj\Debug\net6.0\TestGrading.csproj.CoreCompileInputs.cache
+D:\vs22\g\Grading\obj\Debug\net6.0\TestGrading.dll
+D:\vs22\g\Grading\obj\Debug\net6.0\refint\TestGrading.dll
+D:\vs22\g\Grading\obj\Debug\net6.0\TestGrading.pdb
+D:\vs22\g\Grading\obj\Debug\net6.0\TestGrading.genruntimeconfig.cache
+D:\vs22\g\Grading\obj\Debug\net6.0\ref\TestGrading.dll
